@@ -1,3 +1,4 @@
+// Branch protection verification change
 // Global state
 let albums = [];
 let filteredAlbums = [];
