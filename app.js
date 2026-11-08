@@ -149,7 +149,7 @@ function attachEventListeners() {
 // Export functions for testing
 if (typeof module !== 'undefined' && module.exports) {
     module.exports = {
-        loadAlbums,
+        loadAlbum,
         searchAlbums,
         sortAlbums,
         createAlbumCard,
